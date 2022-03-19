@@ -10,8 +10,11 @@ This repository contains SAS code and results from some tutorials on [SAS Video 
 
 SAS provides a free browser-based programming interface called [SAS OnDemand for Academics](https://www.sas.com/en_us/software/on-demand-for-academics.html) to write and run SAS code. Account registration is needed to use this service. It may take a short while before you gain the access to the online platform. 
 
-# Tutorial Information
+# Tutorials Information
 - <ins>Medium of Instruction</ins>: English
+- <ins>Course Provider</ins>: SAS
+- <ins>Course Producer</ins>: SAS Institute Inc.
+- <ins>Tutorials URL</ins>: https://video.sas.com/
 
 <br />
 
