@@ -21,7 +21,11 @@ CONTENTS:
 
 /* 
 To see the data table named "CARS": 
-[Libraries] > [My Libraries] > [SASHELP] > [CARS]
+01) Navigation Pane 
+02) Click [Libraries] 
+03) Expand [My Libraries] 
+04) Expand [SASHELP] 
+05) Select [CARS]
 */
 
 proc print data=sashelp.cars; 
@@ -37,7 +41,8 @@ Check [RESULTS] and [LOG] tabs
 
 /* 
 To create a new .sas file: 
-Click [New Options] button > select [New SAS Program (F4)]
+01) Click [New Options] button 
+02) Select [New SAS Program (F4)]
 */
 
 proc print data=sashelp.cars; 
@@ -93,6 +98,10 @@ Click [Run all or selected code (F3)] button
 */
 
 /*
+See "Getting Started with SAS Studio - Summary Statistics.pdf"
+*/
+
+/*
 To generate a graph with point-and-click task: 
 01) Navigation Pane 
 02) Click [Tasks and Utilities] 
@@ -111,4 +120,8 @@ To generate a graph with point-and-click task:
 15) Add a title under [Title] in the [TITLE AND FOOTNOTE] section in the [APPEARANCE] tab 
 16) Select a color under [Set color] under the [BARS] section in the [APPEARANCE] tab 
 17) Click [Run all or selected code (F3)] button 
+*/
+
+/*
+See "Getting Started with SAS Studio - Bar Chart.pdf"
 */
