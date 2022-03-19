@@ -1,8 +1,6 @@
 /* 
 SAS Video Tutorial: Getting Started with SAS Studio 
 
-In this video, you get started with programming in SAS Studio. You view a data table, write and submit SAS code, view the log and results, and use interactive features to quickly generate graphs and statistical analyses.
-
 Ref.: https://video.sas.com/detail/videos/getting-started/video/4573016757001/getting-started-with-sas-studio?autoStart=true
 */
 
@@ -98,7 +96,7 @@ Click [Run all or selected code (F3)] button
 */
 
 /*
-See "Getting Started with SAS Studio - Summary Statistics.pdf"
+Output: "Getting Started with SAS Studio - Summary Statistics.pdf"
 */
 
 /*
@@ -123,5 +121,5 @@ To generate a graph with point-and-click task:
 */
 
 /*
-See "Getting Started with SAS Studio - Bar Chart.pdf"
+Output: "Getting Started with SAS Studio - Bar Chart.pdf"
 */
