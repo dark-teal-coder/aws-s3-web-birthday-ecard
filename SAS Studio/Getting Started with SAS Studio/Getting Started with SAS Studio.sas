@@ -19,7 +19,7 @@ CONTENTS:
 
 /* 
 To see the data table named "CARS": 
-01) Navigation Pane 
+01) Go to the navigation panel 
 02) Click [Libraries] 
 03) Expand [My Libraries] 
 04) Expand [SASHELP] 
