@@ -17,7 +17,3 @@ SAS provides a free browser-based programming interface called [SAS OnDemand for
 - <ins>Course Provider</ins>: SAS
 - <ins>Course Producer</ins>: SAS Institute Inc.
 - <ins>Tutorials URL</ins>: https://video.sas.com/
-
-<br />
-
-*Last modified date: Apr 07, 2022*
