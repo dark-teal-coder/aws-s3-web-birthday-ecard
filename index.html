@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Birthday Card for Larissa</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            body {
+                font-size: 100%;
+                padding-top: 5%;
+                padding-right: 5%;
+                padding-bottom: 5%;
+                padding-left: 5%;
+            }
+            .column {
+                float: left;
+                width: 50%;
+                /* padding: 10%; */
+            }
+            /* Clear floats after the columns */
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+            .imgbox {
+                display: grid;
+                height: 100%;
+            }
+            .center-fit {
+                max-width: 100%;
+                max-height: 100vh;
+                margin: auto;
+            }
+            /* Use "vw" instead of "px" for responsive web */
+            .opening-closing {
+                font-size: 2vw;
+                font-family: "Brush Script MT";
+            }
+            .main-message {
+                font-size: 1vw;
+                font-family: "Lucida Handwriting";
+            }
+            @media screen and (max-width: 150px) {
+                .column {
+                    width: 100%;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="row">
+            <div class="column">
+                <div class="imgbox">
+                    <img class="center-fit" src='birthday_card.jpg'>
+                </div>
+            </div>
+            <div class="column">
+                <div style="padding: 10%;">
+                    <h1 align="center" style="font-family:Papyrus;font-size:3vw;">Happy Birthday, Larissa!</h1>
+                    <p class="opening-closing" align="left">To: Larissa<br>(Phone: 647-8x6-x2x8)</p>
+                    <p class="main-message">Happy Birthday, Larissa! May your birthday be as fabulous as you are.</p>
+                    <p class="main-message">I make this birthday e-card for you using the Amazon Web Services (AWS) S3 feature. It took me slightly over an hour to make this quick birthday static but responsive website (with HTML) for you and another half an hour to learn how to host it on and make it accessible via AWS. Please save it down before I take it down.</p>
+                    <p class="opening-closing" align="right">From: Roxy<br>(Phone: 647-3x4-x2x8)<br>2024-04-18</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
