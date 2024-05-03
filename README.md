@@ -10,6 +10,8 @@ As this is a responsive website, try to rotate your phone screen to both portrai
 
 I'm not a web developer. Any constructive feedback from professionals is welcomed and appreciated. 
 
+URL: http://larissa-birthday-2024.s3-website-us-east-1.amazonaws.com/
+
 ---
 NOTES:
 - The original content in this repo was removed on Jan 23, 2024 and the new content has been added on May 3, 2024. 
