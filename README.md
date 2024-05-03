@@ -1,1 +1,3 @@
-This repo content has been removed and the purpose of this repo has been changed to add new content. 
+# AWS S3 Static Website Birthday E-card
+---
+The original content in this repo was removed on Jan 23, 2024 and the new content has been added on May 3, 2024. 
