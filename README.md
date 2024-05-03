@@ -1,4 +1,4 @@
-# AWS S3 Birthday E-card as Responsive Static Website
+# AWS S3 Website Responsive Birthday E-card
 
 ## Repository Description
 
